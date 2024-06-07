@@ -8,7 +8,7 @@
 
 ## ③DEMO
 
-https://yusuke1976.github.io/book/
+https://yusuke1976.github.io/book2/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
